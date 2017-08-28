@@ -50,6 +50,9 @@ document.getElementById('fly').addEventListener('click', function () {
             40 + (Math.random() - 0.5) * 10]
      
     });
+    map.addControl(new MapboxGeocoder({
+    accessToken: mapboxgl.accessToken
+}));
 });
 map.addControl(new mapboxgl.NavigationControl()); 
 </script>
