@@ -48,8 +48,10 @@ document.getElementById('fly').addEventListener('click', function () {
         center: [
             -74.50 + (Math.random() - 0.5) * 10,
             40 + (Math.random() - 0.5) * 10]
+     
     });
 });
+map.addControl(new mapboxgl.NavigationControl()); 
 </script>
 
 </body>
