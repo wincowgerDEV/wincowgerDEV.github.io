@@ -14,7 +14,7 @@
 <body>
 
 <style>
-    #Where Should I Go? {
+    #fly {
         display: block;
         position: relative;
         margin: 0px auto;
@@ -31,7 +31,7 @@
 </style>
 <div id='map'></div>
 <br/>
-<button id='Where Should I Go?'>Where Should I Go?</button>
+<button id='fly'>Fly</button>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1Ijoid2luY293Z2VyIiwiYSI6ImNqNnZoYXYwejExbDMzM3Jwa3l4b3AyczMifQ.76oGkemvsRxkrXJ1yyEdZA';
 var map = new mapboxgl.Map({
@@ -41,13 +41,13 @@ var map = new mapboxgl.Map({
     zoom: 9
 });
 
-document.getElementById('Where Should I Go?').addEventListener('click', function () {
-    // Fly to a random location by offsetting the point -95.028,38.254
+document.getElementById('fly').addEventListener('click', function () {
+    // Fly to a random location by offsetting the point -74.50, 40
     // by up to 5 degrees.
     map.flyTo({
         center: [
-            -95.028 + (Math.random()) * 10,
-            38.254 + (Math.random()) * 10]
+            -74.50 + (Math.random() - 0.5) * 10,
+            40 + (Math.random() - 0.5) * 10]
     });
 });
 </script>
