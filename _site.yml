@@ -1,0 +1,20 @@
+name: "Win Cowger"
+output_dir: "."
+navbar:
+  title: "Win Cowger"
+  left:
+    - text: "Global Trash Data"
+      href: globaldatamap.Rhtml
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/wincowgerDEV
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/Win_OpenData
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/win-cowger-6273b0136/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
