@@ -1,20 +1,27 @@
 name: "Win Cowger"
-output_dir: "."
+#output_dir: "."
+include: [publications.Rhtml]
 navbar:
   title: "Win Cowger"
   left:
     - text: "Global Trash Data"
       href: globaldatamap.Rhtml
+    - text: "Publications"
+      href: publications.html
   right:
     - icon: fa-envelope fa-lg
-      href: contact.html
+      href: mailto:wcowg001@ucr.edu
     - icon: fa-github fa-lg
       href: https://github.com/wincowgerDEV
     - icon: fa-twitter fa-lg
       href: https://twitter.com/Win_OpenData
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/win-cowger-6273b0136/
+    - icon: fab fa-researchgate fa-lg
+      href: https://www.researchgate.net/profile/Win_Cowger
 output:
   html_document:
-    theme: paper
-    css: 'styles.css'
+    theme: cosmo
+    highlight: textmate
+    css: ../styles.css
+    self_contained: false
