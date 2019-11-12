@@ -1,5 +1,8 @@
 ---
 
 ---
+##[My Research Gate](https://www.researchgate.net/profile/Win_Cowger)
 
-This is an R HTML document. When you click the <b>Knit HTML</b> button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You
+##[My Google Scholar](https://scholar.google.com/citations?user=lHPVseIAAAAJ&hl=en)
+
+####I try to make my publications as avaliable to others as possible. Sometimes open access publishing fees hold me back. Please send me an email if you want access to any publications of mine you can't find online and I will send it to you.

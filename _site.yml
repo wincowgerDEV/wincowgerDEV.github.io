@@ -4,8 +4,10 @@ include: [publications.Rhtml]
 navbar:
   title: "Win Cowger"
   left:
-    - text: "Global Trash Data"
-      href: globaldatamap.Rhtml
+    - text: "Open Data"
+      href: globaldata.html
+    - text: "Open Spectroscopy"
+      href: openspecy.html
     - text: "Publications"
       href: publications.html
   right:
@@ -17,11 +19,10 @@ navbar:
       href: https://twitter.com/Win_OpenData
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/win-cowger-6273b0136/
-    - icon: fab fa-researchgate fa-lg
-      href: https://www.researchgate.net/profile/Win_Cowger
+
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: darkly
+    highlight: zenburn
     css: ../styles.css
     self_contained: false
