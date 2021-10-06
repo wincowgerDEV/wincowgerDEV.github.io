@@ -1,6 +1,6 @@
 name: "Win Cowger"
 #output_dir: "."
-include: [publications.Rhtml]
+#include: [publications.Rhtml]
 navbar:
   title: "Win Cowger"
   left:
@@ -19,10 +19,6 @@ navbar:
       href: https://twitter.com/Win_OpenData
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/win-cowger-6273b0136/
-
 output:
   html_document:
     theme: darkly
-    highlight: zenburn
-    css: ../styles.css
-    self_contained: false
