@@ -5,6 +5,6 @@
 
 <img src="images/Me.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-I am a PhD student and NSF graduate research fellow at the [University of California Riverside](https://andrewgray.ucr.edu/people/wcowger.html). I study the sources, transport, and fate of plastic pollution in the environment. My science focuses on identifying solutions to plastic pollution and assessing their effectiveness. As an applied scientists, I work with nonprofit groups like [Let’s Do It World](https://www.letsdoitworld.org/) and [5 Gyres](https://www.5gyres.org/), government agencies like [SCCWRP](http://www.sccwrp.org/) and the [Ocean Protection Council](http://www.opc.ca.gov/), and academics to implement science in practice. 
+I am a Research Scientists at the [Moore Institute for Plastic Pollution Research](https://mooreplasticresearch.org/). My science focuses on identifying solutions to plastic pollution and assessing their effectiveness. As an applied scientists, I work with nonprofit groups like [Let’s Do It World](https://www.letsdoitworld.org/) and [5 Gyres](https://www.5gyres.org/), government agencies like [SCCWRP](http://www.sccwrp.org/), [Trash Monitoring Workgroup](https://mywaterquality.ca.gov/monitoring_council/trash_monitoring/), and the [Ocean Protection Council](http://www.opc.ca.gov/), and academics to implement science in practice. 
 
 My full CV is available [here](files/WinCowgerCV.pdf).
