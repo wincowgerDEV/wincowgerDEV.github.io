@@ -4,20 +4,23 @@ name: "Win Cowger"
 navbar:
   title: "Win Cowger"
   left:
-    - text: "Open Data"
+    - text: "Trash Transport in Watersheds"
       href: globaldata.html
-    - text: "Open Spectroscopy"
+    - text: "Data Science"
+      href: globaldata.html
+    - text: "Spectroscopy"
       href: openspecy.html
-    - text: "Publications"
+    - text: "Publication Access"
       href: publications.html
   right:
+    - text: "Contact:"
     - icon: fa-envelope fa-lg
       href: mailto:wcowg001@ucr.edu
-    - icon: fa-github fa-lg
+    - icon: ion-social-github
       href: https://github.com/wincowgerDEV
-    - icon: fa-twitter fa-lg
+    - icon: ion-social-twitter
       href: https://twitter.com/Win_OpenData
-    - icon: fa-linkedin fa-lg
+    - icon: ion-social-linkedin
       href: https://www.linkedin.com/in/win-cowger-6273b0136/
 output:
   html_document:

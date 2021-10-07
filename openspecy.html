@@ -21,8 +21,11 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -33,6 +36,21 @@
   ul.task-list{list-style: none;}
     </style>
 
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
 
 
 
@@ -64,7 +82,6 @@ h6 {
 </style>
 
 
-<link rel="stylesheet" href="../styles.css" type="text/css" />
 
 
 
@@ -269,17 +286,21 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="globaldata.html">Open Data</a>
+  <a href="globaldata.html">Trash Transport in Watersheds</a>
 </li>
 <li>
-  <a href="openspecy.html">Open Spectroscopy</a>
+  <a href="globaldata.html">Data Science</a>
 </li>
 <li>
-  <a href="publications.html">Publications</a>
+  <a href="openspecy.html">Spectroscopy</a>
+</li>
+<li>
+  <a href="publications.html">Publication Access</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li>
+        <li class="dropdown-header">Contact:</li>
+<li>
   <a href="mailto:wcowg001@ucr.edu">
     <span class="fas fa-envelope fa-lg"></span>
      
@@ -287,19 +308,19 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="https://github.com/wincowgerDEV">
-    <span class="fas fa-github fa-lg"></span>
+    <span class="ion ion-social-github"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/Win_OpenData">
-    <span class="fas fa-twitter fa-lg"></span>
+    <span class="ion ion-social-twitter"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/win-cowger-6273b0136/">
-    <span class="fas fa-linkedin fa-lg"></span>
+    <span class="ion ion-social-linkedin"></span>
      
   </a>
 </li>
@@ -316,11 +337,14 @@ $(document).ready(function () {
 </div>
 
 
-<hr />
-<hr />
-<p>##Developing Open Specy</p>
-<p>####Spectroscopy is one of the most important scientific instruments for forensic investigation of unknown materials. In plastic pollution research we need to identify the type of plastic that we find to better understand their fate and toxicity and validate our extraction methods. We use spectrscopy all the time. The best tools on the market for identifying unknown spectra cost $10,000+ and I didn’t have the funding to purchase one. So I spent a few weeks developing a spectra identification tool, made it open access, and named it “Open Specy”. My hope is that other sceintists will also use this tool and help develop it to make spectral identification better and more cost effective.</p>
-<p>#####The current Open Specy website is <a href="https://wincowger.shinyapps.io/spectra/">HERE</a></p>
+<div id="section" class="section level2">
+<h2>—</h2>
+<p><img src="images/open_specy.png" style="width:25%; border:10px solid; margin-right: 20px" align="left"></p>
+<p>Spectroscopy is one of the most important scientific instruments for forensic investigation of unknown materials. In plastic pollution research we need to identify the type of plastic that we find to better understand their fate and toxicity and validate our extraction methods. We use spectroscopy all the time. The best tools on the market for identifying unknown spectra cost $10,000+ and I didn’t have the funding to purchase one. So I spent a few weeks developing a spectra identification tool, made it open access, and named it “Open Specy”. Now it is used by hundreds of scientists around the world.</p>
+<p><font size="15"> Updates:</p>
+<p>The Open Specy website is <a href="https://wincowger.shinyapps.io/spectra/">LIVE</a></p>
+<p>We published the Open Specy Manuscript in <a href="https://pubs.acs.org/doi/10.1021/acs.analchem.1c00123">Analytical Chemistry</a> </font></p>
+</div>
 
 
 
