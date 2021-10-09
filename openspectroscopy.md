@@ -19,7 +19,9 @@ Spectroscopy is one of the most important scientific techniques for forensic inv
 
 ## Highlighted Achievements
 - The Open Specy website is [LIVE](https://wincowger.shinyapps.io/spectra/) 
-- We published the Open Specy Manuscript in [Analytical Chemistry](https://pubs.acs.org/doi/10.1021/acs.analchem.1c00123)  
+- We published the Open Specy Manuscript in [Analytical Chemistry](https://pubs.acs.org/doi/10.1021/acs.analchem.1c00123) 
+- We published a review on processing and classification techniques for images and spectra in microplastics research in [Applied Spectroscopy](https://doi.org/10.1177%2F0003702820929064)
+- We published a second review on the hardware involved in collecting microplastic spectra in [Applied Spectroscopy](https://doi.org/10.1177%2F0003702820921465)
 
 ## Partners (not comprehensive)
 
