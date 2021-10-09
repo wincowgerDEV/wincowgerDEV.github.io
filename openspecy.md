@@ -22,7 +22,8 @@ Spectroscopy is one of the most important scientific techniques for forensic inv
 - We published the Open Specy Manuscript in [Analytical Chemistry](https://pubs.acs.org/doi/10.1021/acs.analchem.1c00123)  
 
 ## Partners (not comprehensive)
-![image](https://user-images.githubusercontent.com/26821843/136639629-98e3374a-5101-43a1-91d4-a95e46d125fe.png)
+
+<image "src= https://user-images.githubusercontent.com/26821843/136639629-98e3374a-5101-43a1-91d4-a95e46d125fe.png" width = "25%">
 ![image](https://user-images.githubusercontent.com/26821843/136639000-191ff00d-603f-4363-87d8-bfd2180558ea.png)
 ![image](https://user-images.githubusercontent.com/26821843/136663974-aa4136a9-6ce6-48fc-afb4-c955d5e16a8d.png)
 ![](https://amgenscholars.com/wp-content/uploads/2018/09/uni-icon-univtoronto.svg)
