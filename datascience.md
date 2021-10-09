@@ -24,8 +24,10 @@ P.S. I believe that data facilitates knowledge, knowledge facilitates power, and
 - We published the Microplastics Reporting Guidelines in [Applied Spectroscopy](https://doi.org/10.1177%2F0003702820930292)
 - The Microplastic Reporting Guidelines were used to keep track of metadata in a study which resulted in the development of the first standard methodology for analyzing microplastic in drinking water. Method info [HERE](waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html) 
 - The Microplastic Reporting Guidelines were used to develop a database schema with the University of Waterloo. Link soon to come. 
-- The Trash Taxonomy is [LIVE](https://wincowger.shinyapps.io/trashtaxonomy)
-- We hosted a datahon focused on trash data. 
+- The Trash Taxonomy is [LIVE](https://wincowger.shinyapps.io/trashtaxonomy).
+- We published a [tool](https://dl.acm.org/doi/10.1145/3347146.3359074) for visualizing big trash data.
+- We published a review paper on how to assess the influence from wastewater effluent in environmental samples [STUDY HERE](https://iwaponline.com/ebooks/book/769/chapter/1708400/Evaluating-wastewater-effluent-as-a-source-of).
+
 
 ## Partners (not comprehensive)
 ![image](https://user-images.githubusercontent.com/26821843/136639629-98e3374a-5101-43a1-91d4-a95e46d125fe.png)
