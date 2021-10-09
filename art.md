@@ -17,6 +17,6 @@ Art can be a powerful communication tool and has been used thoroughly to awaken 
 - We created a horror 3D film about how bad ocean plastic could get and what the world would be like dominated by plastic: [Current Affairs](https://shuruqtramontini.com/CURRENT-AFFAIRS)
 
 ## Partners (not comprehensive)
-![image](https://user-images.githubusercontent.com/26821843/136639629-98e3374a-5101-43a1-91d4-a95e46d125fe.png)
-![image](https://www.bestarchitecturemasters.com/wp-content/uploads/2019/06/sci-arc-LOGO-01.png)
-![](https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png)
+<img src = "https://user-images.githubusercontent.com/26821843/136639629-98e3374a-5101-43a1-91d4-a95e46d125fe.png" width = "25%">
+<img src = "https://www.bestarchitecturemasters.com/wp-content/uploads/2019/06/sci-arc-LOGO-01.png" width = "25%">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" width = "25%">
