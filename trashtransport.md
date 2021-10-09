@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trash Transport
+title: Tracking Trash
 ---
 
 ![image](https://user-images.githubusercontent.com/26821843/136644436-bee2299d-219c-44fc-b2b0-498ea6ce62b7.png)
