@@ -13,6 +13,7 @@ Art can be a powerful communication tool and has been used thoroughly to awaken 
 1. Everyone interprets art differently, it is challenging to figure out the right visualization to reach the broadest audience. 
 
 ## Highlighted Achievements
+- During COVID I created a podcast series to interview other scholars in my department to keep the department community alive: [Youtube Series](https://www.youtube.com/watch?v=s2IH2x4bpBU&list=PLcpTaL_cR2BL-rkeYG4610v4AgrYK5bd5)
 - We created a 3D visualization of how large the ocean plastic pollution problem is: [Facing the Facts of Ocean Plastic Pollution](http://digitaltopo.net/dev/projects/natgeo-oceans-viz/)
 - We created a horror 3D film about how bad ocean plastic could get and what the world would be like dominated by plastic: [Current Affairs](https://shuruqtramontini.com/CURRENT-AFFAIRS)
 
