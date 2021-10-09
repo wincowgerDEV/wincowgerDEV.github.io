@@ -1,12 +1,12 @@
 # Site navigation links
 - title: Home
   url: /
-
-- title: Data Science
-  url: /globaldata/
   
 - title: Trash Transport
   url: /trashtransport/
+  
+- title: Data Science
+  url: /globaldata/
 
 - title: Open Spectroscopy
   url: /openspecy/
