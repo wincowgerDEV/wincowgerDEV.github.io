@@ -27,12 +27,12 @@ P.S. I believe that data facilitates knowledge, knowledge facilitates power, and
 - The Trash Taxonomy is [LIVE](https://wincowger.shinyapps.io/trashtaxonomy)
 - We hosted a datahon focused on trash data. 
 
-## Partners
+## Partners (not comprehensive)
 ![image](https://user-images.githubusercontent.com/26821843/136639629-98e3374a-5101-43a1-91d4-a95e46d125fe.png)
 ![image](https://user-images.githubusercontent.com/26821843/136639000-191ff00d-603f-4363-87d8-bfd2180558ea.png)
 ![image](https://user-images.githubusercontent.com/26821843/136663974-aa4136a9-6ce6-48fc-afb4-c955d5e16a8d.png)
 ![image](https://user-images.githubusercontent.com/26821843/136664206-0efd6cde-d839-4502-b090-037f36cdac09.png)
-And Many More.....
+![](https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png)
 
 ## Contact
 Contact Project Coordinator Win Cowger <wincowger@gmail.com>
