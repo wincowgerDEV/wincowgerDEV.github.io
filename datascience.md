@@ -22,6 +22,8 @@ P.S. I believe that data facilitates knowledge, knowledge facilitates power, and
 
 ## Highlighted Achievements
 - We published the Microplastics Reporting Guidelines in [Applied Spectroscopy](https://doi.org/10.1177%2F0003702820930292)
+- The Microplastic Reporting Guidelines were used to develop a database schema with the University of Waterloo. Link soon to come. 
+- The Microplastic Reporting Guidelines were used to keep track of metadata in a study which resulted in the development of the first standard methodology for analyzing microplastic in drinking water. Method info [HERE](waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html) 
 - The Trash Taxonomy is [LIVE](https://wincowger.shinyapps.io/trashtaxonomy)
 - We hosted a datahon focused on trash data. 
 
@@ -29,6 +31,8 @@ P.S. I believe that data facilitates knowledge, knowledge facilitates power, and
 ![image](https://user-images.githubusercontent.com/26821843/136639629-98e3374a-5101-43a1-91d4-a95e46d125fe.png)
 ![image](https://user-images.githubusercontent.com/26821843/136639000-191ff00d-603f-4363-87d8-bfd2180558ea.png)
 ![image](https://user-images.githubusercontent.com/26821843/136663974-aa4136a9-6ce6-48fc-afb4-c955d5e16a8d.png)
+![image](https://user-images.githubusercontent.com/26821843/136664206-0efd6cde-d839-4502-b090-037f36cdac09.png)
+And Many More.....
 
 ## Contact
 Contact Project Coordinator Win Cowger <wincowger@gmail.com>
