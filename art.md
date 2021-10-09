@@ -4,13 +4,15 @@ title: Artistic Contributions
 ---
 
 ## Background
-Art can be a powerful communication tool and has been used thoroughly to awaken the public about the plastic pollution crisis.
+Art can be a powerful communication tool and has been used thoroughly to awaken the public about the plastic pollution crisis and science.
 
 ## Goals
 1. Combine science and art to visualize and communicate truth to non-scientific audiences. 
+2. Impact my immediate community through multimedia messaging. 
 
 ## Major Learnings
 1. Everyone interprets art differently, it is challenging to figure out the right visualization to reach the broadest audience. 
+2. Hosting a podcast can be a fun way to get to know your department. 
 
 ## Highlighted Achievements
 - During COVID I created a podcast series to interview other scholars in my department to keep the department community alive: [Youtube Series](https://www.youtube.com/watch?v=s2IH2x4bpBU&list=PLcpTaL_cR2BL-rkeYG4610v4AgrYK5bd5)
