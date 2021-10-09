@@ -22,10 +22,5 @@ Trash is a suite of novel particles with a wide variety of shapes, size, densiti
 - We published the Riparian Trash Study in [Environmental Pollution](https://doi.org/10.1016/j.envpol.2019.04.052)
 
 ## Partners (not comprehensive)
-![image](https://user-images.githubusercontent.com/26821843/136639629-98e3374a-5101-43a1-91d4-a95e46d125fe.png)
-![image](https://user-images.githubusercontent.com/26821843/136639000-191ff00d-603f-4363-87d8-bfd2180558ea.png)
-![image](https://user-images.githubusercontent.com/26821843/136663974-aa4136a9-6ce6-48fc-afb4-c955d5e16a8d.png)
-![](https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png)
+<image src = "https://user-images.githubusercontent.com/26821843/136639629-98e3374a-5101-43a1-91d4-a95e46d125fe.png", width = "25%"> <image src = "https://user-images.githubusercontent.com/26821843/136639000-191ff00d-603f-4363-87d8-bfd2180558ea.png", width = "25%"> <image src = "https://user-images.githubusercontent.com/26821843/136663974-aa4136a9-6ce6-48fc-afb4-c955d5e16a8d.png", width = "25%"> <image src = "https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png", width = "25%">
 
-## Contact
-Contact Project Coordinator Win Cowger <wincowger@gmail.com>
