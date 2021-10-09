@@ -25,7 +25,7 @@ Trash is a suite of novel particles with a wide variety of shapes, size, densiti
 ![image](https://user-images.githubusercontent.com/26821843/136639629-98e3374a-5101-43a1-91d4-a95e46d125fe.png)
 ![image](https://user-images.githubusercontent.com/26821843/136639000-191ff00d-603f-4363-87d8-bfd2180558ea.png)
 ![image](https://user-images.githubusercontent.com/26821843/136663974-aa4136a9-6ce6-48fc-afb4-c955d5e16a8d.png)
-![](https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png){:height="50%" width="50%"}
+![](https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png)
 
 ## Contact
 Contact Project Coordinator Win Cowger <wincowger@gmail.com>
