@@ -4,7 +4,7 @@ title: Artistic Contributions
 ---
 
 ## Background
-Art can be a powerful communication tool and has been used throughly to awaken the public about the plastic pollution crisis.
+Art can be a powerful communication tool and has been used thoroughly to awaken the public about the plastic pollution crisis.
 
 ## Goals
 1. Combine science and art to visualize and communicate truth to non-scientific audiences. 
