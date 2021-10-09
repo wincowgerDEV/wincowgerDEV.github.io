@@ -26,6 +26,9 @@ Spectroscopy is one of the most important scientific techniques for forensic inv
 ![image](https://user-images.githubusercontent.com/26821843/136639000-191ff00d-603f-4363-87d8-bfd2180558ea.png)
 ![image](https://user-images.githubusercontent.com/26821843/136663974-aa4136a9-6ce6-48fc-afb4-c955d5e16a8d.png)
 ![](https://amgenscholars.com/wp-content/uploads/2018/09/uni-icon-univtoronto.svg)
+![](https://www.nist.gov/sites/default/files/images/2018/10/24/nist-logo_5.jpg)
+![](https://en.wikipedia.org/wiki/Alfred_Wegener_Institute_for_Polar_and_Marine_Research#/media/File:AWI_Logo_2017.svg)
+![](https://www.uni-koblenz-landau.de/logo.png)
 
 ## Contact
 Contact Project Coordinator Win Cowger <wincowger@gmail.com>
