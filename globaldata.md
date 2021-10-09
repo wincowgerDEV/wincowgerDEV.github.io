@@ -1,3 +1,8 @@
+---
+layout: page
+title: Data Science
+---
+
 ![RelationalStructure](https://user-images.githubusercontent.com/26821843/136643221-cb6ecd64-8479-4800-835a-c5196da00b83.png)
 
 
