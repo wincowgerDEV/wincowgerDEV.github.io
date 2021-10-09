@@ -8,7 +8,7 @@ Art can be a powerful communication tool and has been used thoroughly to awaken 
 
 ## Goals
 1. Combine science and art to visualize and communicate truth to non-scientific audiences. 
-2. Impact my immediate community through multimedia messaging. 
+2. Impact my community through multimedia messaging. 
 
 ## Major Learnings
 1. Everyone interprets art differently, it is challenging to figure out the right visualization to reach the broadest audience. 
